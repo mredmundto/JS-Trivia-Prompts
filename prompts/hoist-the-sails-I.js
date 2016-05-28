@@ -11,3 +11,4 @@ function foo(){
 console.log(foo());
 
 // What will the above log (and why)?
+// return 8 becasue both function are function declaration and they get hoisted to the top  

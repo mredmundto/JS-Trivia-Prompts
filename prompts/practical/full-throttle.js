@@ -5,3 +5,6 @@
 // every duration ms
 
 var throttle = function() {};
+
+// See my solution in underbar 
+// https://github.com/mredmundto/2016-06-underbar/blob/master/src/underbar.js
